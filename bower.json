@@ -1,0 +1,23 @@
+{
+  "name": "carouFredSel",
+  "authors": [
+    "Haiker <mr.haiker@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gilbitron/carouFredSel": "carouFredSel#~6.2.1",
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
